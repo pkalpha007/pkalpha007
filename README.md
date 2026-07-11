@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Prabakaran </h1>
-<h3 align="center">M.Sc Computer Science Graduate | Aspiring Software Developer | Java Enthusiast</h3>
+<h3 align="center">M.Sc Computer Science Student| Aspiring Software Developer | Java Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;M.Sc+Computer+Science+Graduate;Python+Developer;Java+Programmer;AI+%26+Machine+Learning+Learner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;M.Sc+Computer+Science+Student;Python+Developer;Java+Programmer;AI+%26+Machine+Learning+Learner" />
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-- 🎓 M.Sc Computer Science Graduate
+- 🎓 M.Sc Computer Science Student
 - 🌱 Currently learning Full Stack Development
 - 💻 Interested in Python, Java, AI & Machine Learning
 - 🚀 Goal: Become a Software Engineer

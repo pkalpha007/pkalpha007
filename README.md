@@ -2,7 +2,7 @@
 <h3 align="center">M.Sc Computer Science Graduate | Aspiring Software Developer | Java Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;B.Sc+Computer+Science+Graduate;Python+Developer;Java+Programmer;AI+%26+Machine+Learning+Learner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;M.Sc+Computer+Science+Graduate;Python+Developer;Java+Programmer;AI+%26+Machine+Learning+Learner" />
 </p>
 
 ---
